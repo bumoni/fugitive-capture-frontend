@@ -1,3 +1,3 @@
 module.exports = {
-    baseUrl: "http://localhost:5000"
+    baseUrl: "https://fugitive-capture-backend-1.onrender.com"
 };
